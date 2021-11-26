@@ -25,7 +25,6 @@ This page describes how Azure performs both types of maintenance. For more infor
 Within a VM, you can get notifications about upcoming maintenance by [using Scheduled Events for Windows](./windows/scheduled-events.md) or for [Linux](./linux/scheduled-events.md).
 
 
-
 ## Maintenance that doesn't require a reboot
 
 Most platform updates don't affect customer VMs. When a no-impact update isn't possible, Azure chooses the update mechanism that's least impactful to customer VMs. 
