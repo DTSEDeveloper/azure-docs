@@ -1,4 +1,4 @@
----
+------
 title: App status in Azure Spring Cloud
 description: Learn the app status categories in Azure Spring Cloud
 author: karlerickson
